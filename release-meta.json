@@ -1,0 +1,9 @@
+{
+  "version": "0.2.23",
+  "sourceCommit": "55e69ca0e219428bc3b1dc6100615c499f57c9f6",
+  "documentSchemas": {
+    "flux": 23,
+    "iolist": 13,
+    "iplist": 9
+  }
+}

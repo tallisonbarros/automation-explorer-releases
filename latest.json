@@ -1,0 +1,11 @@
+{
+  "version": "0.2.23",
+  "notes": "Melhorias e correcoes do Automation Explorer.",
+  "pub_date": "2026-08-28T16:09:16.128Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNFk2U2dIWmFQWnUzRWlMT1B6bDJEblFySnU4NzdIdGVqSHpvbkxaQVNQMzFzU1BDeWtXSHFZTUI1Mno1Wm1pWGVqZk5RT3hZdFN5VE9sZ3pCbklLbnAxeU5OSnFTMlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTMzMzQyCWZpbGU6QXV0b21hdGlvbiBFeHBsb3Jlcl8wLjIuMjNfeDY0LXNldHVwLmV4ZQp3aHdOUDNHWmNPb3NHTHhhZ0xvUzE3cEYwb0N4bnZNQzcyeXFpZXIxSE9pd2NuOVNYcExvczVmMkFRdmp2UWVLNHF4Tzl4Szg3SEg1cnZ4NUZUdU5BUT09Cg==",
+      "url": "https://github.com/tallisonbarros/automation-explorer-releases/releases/download/v0.2.23/Automation-Explorer-Setup-Windows-x64.exe"
+    }
+  }
+}
